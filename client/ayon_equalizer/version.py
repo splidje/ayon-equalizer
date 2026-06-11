@@ -1,2 +1,2 @@
 """Package declaring AYON addon 'equalizer' version."""
-__version__ = "0.2.1+ubp0.1.0"
+__version__ = "0.2.1+ubp0.1.1"
